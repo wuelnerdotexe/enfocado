@@ -1,3 +1,9 @@
-# Enfocado's Landing Page
+# Enfocado's Website
 
-This project is built with only HTML, CSS, and pure JavaScript. No more is needed.
+This project started only with pure HTML, CSS, and JavaScript.
+
+# License
+
+[MIT &copy; Wuelner Martínez.](https://github.com/wuelnerdotexe/enfocado/blob/main/LICENSE)
+
+<p align="center">¡Con 💖 de <strong>Latinoamérica</strong> para el mundo!</p>
