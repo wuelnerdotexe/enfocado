@@ -39,7 +39,7 @@ In order for the human text simulation to work as it should, I recommend that yo
 
 ## Maintainer
 
-> Hola 👋, soy **[Wuelner](https://linktr.ee/wuelnerdotexe)**, un **software developer de Guatemala**, apasionado por crear soluciones minimalistas utilizando fundamentos sólidos enfocados en **"cómo deben ser las cosas"**.
+> Hi 👋, I'm **[Wuelner](https://linktr.ee/wuelnerdotexe)**, a **software developer from Guatemala**, passionate about creating minimalist solutions using solid fundamentals focused on **"how things should be"**.
 
 ## Contributing
 
@@ -59,4 +59,4 @@ And of course, if you want to motivate me to constantly improve this theme, your
 
 [MIT &copy; Wuelner Martínez.](https://github.com/wuelnerdotexe/enfocado/blob/main/LICENSE)
 
-<p align="center">¡Con 💖 de <strong>Latinoamérica</strong> para el mundo!</p>
+<p align="center">With 💖 from <strong>LATAM</strong> to the world!</p>
